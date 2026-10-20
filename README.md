@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hi%2C%20I%27m%20Ritesh&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%E2%80%A2%20Aspiring%20Web%20Developer&descAlignY=62&descSize=18" alt="Hi, I'm Ritesh" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=header" alt="banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=1500&color=A8ADFF&center=true&vCenter=true&width=640&height=80&lines=Hi%2C+I%27m+Ritesh+%F0%9F%91%8B" alt="Hi, I'm Ritesh" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=54E4D5&center=true&vCenter=true&width=520&height=40&lines=Student+%E2%80%A2+Aspiring+Web+Developer" alt="Role" />
 </p>
 
 <p align="center">
